@@ -10,7 +10,7 @@
 
 <h2>🖥️ Tela principal: </h2>
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/134753074-55fa626e-718d-4bd8-9ee1-3b19631c5e87.png" width="100%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/140802758-dfda84e5-77d6-4592-87d7-334dfaacea0a.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -25,10 +25,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto criado no intuito de aprofundar o ReactJS e entender melhor como o framework funciona, basicamente você informa um titulo e um texto que você quiser e ao clicar no botão sua nota será fixada na tela, tipo um mural.
+Projeto criado no intuito de aprofundar o ReactJS e entender melhor como o framework funciona, você pode criar notas e categorias personalizadas, e para cada nota você pode colocar a categoria que desejar, se já tiver cumprido a tarefa, basta clicar na lixeira em cada nota e apagá-la.
 <br>
 
 ---
 <div align="center">
 <h3>👨‍💻Feito por Davi Mateus👨‍💻</h3>
 <div/>
+
